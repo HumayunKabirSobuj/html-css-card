@@ -36,7 +36,6 @@ body {
   color: white;
   overflow: hidden;
 }
-
 .card::before {
   content: '';
   position: absolute;
